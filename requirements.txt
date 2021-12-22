@@ -1,4 +1,4 @@
-opencv-python-headless==4.1.0.26
+opencv-python-headless==4.5.3.56
 pytesseract==0.3.7
 numpy==1.19.3
 Flask==1.1.1
